@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 10px solid teal;
+}
+
+header{
+  background-color: teal;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+#hats{
+  background-color: teal;
+  padding-bottom: 15px;
+}

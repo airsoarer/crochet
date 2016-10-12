@@ -1,0 +1,78 @@
+body{
+  background-color: black;
+  border: 25px solid teal;
+  color: white;
+  text-align: center;
+  font-size: 78px;
+
+}
+
+h1{
+  font-size: 100px;
+}
+
+h3{
+  font-size: 60px;
+}
+
+b{
+  color: black;
+}
+
+header{
+  background-color: teal;
+  padding-top: 15px;
+  margin-top: 100px;
+  font-size: 48px;
+}
+
+#menu{
+  text-align: center;
+  font-size: 55px;
+  padding-bottom: 25px;
+}
+
+.wordsBeforePictures{
+  padding-bottom: 25px;
+  padding-top: 25px;
+  font-size: 48;
+}
+
+.portfolioPhotos1{
+  font-size: 48px;
+  height: 800px;
+  display: inline-table;
+  margin-bottom: 25px;
+  padding-bottom: 75px;
+  background-repeat:no-repeat;
+}
+
+.portfolioPhotos2{
+  font-size: 48px;
+  height: 800px;
+  padding-top: 125px;
+  display: inline-table;
+  background-repeat: no-repeat;
+}
+
+.pic5{
+  height: 800px;
+  font-size: 48px;
+  display: inline-table;
+}
+
+.portfolioPhotos3{
+  font-size: 48px;
+  padding-top: 25px;
+  height: 800px;
+  padding-top: 125px;
+  display: inline-table;
+  background-attachment: fixed;
+}
+
+.pic4{
+  background-repeat: no-repeat;
+  height: 800px;
+  display:inline-table;
+  font-size: 48px;
+}

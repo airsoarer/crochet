@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+  border: 10px solid teal;
+  color: white;
+  text-align: center;
+}
+
+header{
+  background-color:teal;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 15px;
+}
+
+#words{
+  text-align: left;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 200px;
+}

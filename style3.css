@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: left;
+  border: 15px solid teal;
+
+}
+
+header{
+  text-align: center;
+  background-color: teal;
+  padding-top: 15px;
+  margin-top: 15px;
+  padding-bottom: 15px;
+}
+
+#contact{
+    padding-bottom: 600px;
+}
